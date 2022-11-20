@@ -1,0 +1,21 @@
+.box {
+    text-align: left;
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 3px;
+    background-color: white;
+}
+
+.center {
+    text-align: center;
+}
+
+.nowrap {
+    overflow-x: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.noSelect {
+    user-select: none;
+}
